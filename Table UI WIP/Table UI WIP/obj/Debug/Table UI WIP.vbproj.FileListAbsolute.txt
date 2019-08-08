@@ -1,0 +1,17 @@
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\bin\Debug\Table UI WIP.exe.config
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\bin\Debug\Table UI WIP.exe
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\bin\Debug\Table UI WIP.pdb
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\bin\Debug\Table UI WIP.xml
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\bin\Debug\Guna.UI.dll
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.vbprojResolveAssemblyReference.cache
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\obj\Debug\Table_UI_WIP.Form1.resources
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\obj\Debug\Table_UI_WIP.Resources.resources
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.vbproj.GenerateResource.Cache
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.exe
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.xml
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.pdb
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Table UI WIP\Table UI WIP\obj\Debug\Table_UI_WIP.UserControl1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\bin\Debug\Table UI WIP.exe.config
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.pdb
