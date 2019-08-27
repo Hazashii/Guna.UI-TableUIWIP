@@ -15,3 +15,11 @@ C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\bin\
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.exe
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.xml
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\bin\Debug\Table UI WIP.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\bin\Debug\Table UI WIP.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\bin\Debug\Table UI WIP.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table_UI_WIP.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table_UI_WIP.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table_UI_WIP.UserControl1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-TableUIWIP\Table UI WIP\Table UI WIP\obj\Debug\Table UI WIP.vbproj.GenerateResource.Cache
